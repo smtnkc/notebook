@@ -7,6 +7,7 @@ My personal favorites in frontend development. Note that this content is frequen
 * [codepen.io](https://codepen.io/)
 * [caniuse.com](https://caniuse.com/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
+* [HTML Mag](https://htmlmag.com/)
 
 ## Tools & Packages
 * [Webpack](https://webpack.js.org/concepts/) is static **module bundler** for modern JavaScript applications.
