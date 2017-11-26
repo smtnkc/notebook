@@ -46,3 +46,4 @@ My personal favorites in frontend development. Note that this content is frequen
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Bootstrap Grid System](https://getbootstrap.com/docs/4.0/layout/grid/)
+* [Responsive Breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
