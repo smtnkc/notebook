@@ -6,6 +6,7 @@ My personal favorites in frontend development. Note that this content is frequen
 * [w3schools.com](https://www.w3schools.com)
 * [codepen.io](https://codepen.io/)
 * [caniuse.com](https://caniuse.com/)
+* [Nicolas Gallagher](http://nicolasgallagher.com/)
 
 ## Tools & Packages
 * [Webpack](https://webpack.js.org/concepts/) is static **module bundler** for modern JavaScript applications.
@@ -20,16 +21,27 @@ My personal favorites in frontend development. Note that this content is frequen
 * [Normalize CSS](https://necolas.github.io/normalize.css/) is a **CSS file** for cross-browser consistency in the default styling of HTML elements. 
 * [HEAD](https://gethead.info/) is a free **guide** to `<head>` elements.
 
+## YouTube Channels
+#### EN
+* [Learn Code Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [TheNewBoston](https://www.youtube.com/user/thenewboston)
+* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+#### TR
+* [Adem İlter](https://www.youtube.com/channel/UC1Z-a8i2Ce4oIEMV-S3iFrg)
+* [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)
+* [Selman Kahya](https://www.youtube.com/channel/UC9Z-Gc_BkYuW75jKcTJICJA)
+* [Doğukan Güven Nomak](https://www.youtube.com/channel/UCbu25feEIe6fY9fZx8BCMSA)
+* [Üstün Özgür](https://www.youtube.com/user/ustunozgur)
+
 ## People
-* [Nicolas Gallagher](http://nicolasgallagher.com/)
-* [Adem İlter](https://github.com/ademilter)
-* [Azer Koçulu](https://github.com/azer)
+* [My GitHub Following List](https://github.com/smtnkc?tab=following)
 
 ## Docs & Articles
 * [BEM Naming Guide](http://getbem.com/naming/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Bootstrap Grid System](https://getbootstrap.com/docs/4.0/layout/grid/)
-
-## Video Tutorials
-* Coming soon...
