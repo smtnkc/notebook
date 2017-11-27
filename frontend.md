@@ -15,6 +15,7 @@ My personal favorites in frontend development. Note that this content is frequen
 * [Gulp](https://gulpjs.com/) is a **toolkit for automating** painful or time-consuming tasks in your development workflow.
 * [Babel](https://babeljs.io/) is a **JavaScript transpiler** that converts next-gen ES6 JavaScript into plain old ES5 JavaScript.
 * [Sass](http://sass-lang.com/guide) is a **CSS preprocessor** let's you use variables, nesting, operators, inheritance, and more.
+* [PUG](https://pugjs.org/api/getting-started.html) is a simple and feature rich **templating engine** for HTML.
 * [Zeplin](https://zeplin.io/) is a **collaboration tool**, built for UI designers and frontend developers.
 * [Bootstrap](https://getbootstrap.com/) is an open-source **front-end component library** to build responsive web apps.
 * [Underscore](http://underscorejs.org/) is a **utility function library** that simplifies working with data in web apps.
