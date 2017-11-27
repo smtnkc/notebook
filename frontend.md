@@ -13,6 +13,7 @@ My personal favorites in frontend development. Note that this content is frequen
 ## Tools & Packages
 * [Webpack](https://webpack.js.org/concepts/) is static **module bundler** for modern JavaScript applications.
 * [Gulp](https://gulpjs.com/) is a **toolkit for automating** painful or time-consuming tasks in your development workflow.
+* [Browsersync](https://www.browsersync.io/) is an **automation tool** that makes web development faster.
 * [Babel](https://babeljs.io/) is a **JavaScript transpiler** that converts next-gen ES6 JavaScript into plain old ES5 JavaScript.
 * [Sass](http://sass-lang.com/guide) is a **CSS preprocessor** let's you use variables, nesting, operators, inheritance, and more.
 * [PUG](https://pugjs.org/api/getting-started.html) is a simple and feature rich **templating engine** for HTML.
