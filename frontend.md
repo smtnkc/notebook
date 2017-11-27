@@ -6,7 +6,6 @@ My personal favorites in frontend development. Note that this content is frequen
 * [w3schools.com](https://www.w3schools.com)
 * [codepen.io](https://codepen.io/)
 * [caniuse.com](https://caniuse.com/)
-* [Nicolas Gallagher](http://nicolasgallagher.com/)
 * [HTML Mag](https://htmlmag.com/)
 * [Eric Meyer](https://meyerweb.com/)
 * [Nicolas Gallagher](http://nicolasgallagher.com/)
