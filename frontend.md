@@ -26,6 +26,7 @@ My personal favorites in frontend development. Note that this content is frequen
 * [HEAD](https://gethead.info/) is a free **guide** to `<head>` elements.
 * [Flickity](https://flickity.metafizzy.co/) is a **JS library** for responsive and touch sensetive carousels, sliders, and galleries.
 * [OwlCarousel](https://owlcarousel2.github.io/OwlCarousel2/) is a **touch enabled jQuery plugin** that lets you create responsive carousel sliders.
+* [Slick Slider](http://kenwheeler.github.io/slick/) is a useful open-source **slider** library.
 
 ## YouTube Channels
 #### EN
