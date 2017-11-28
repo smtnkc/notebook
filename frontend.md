@@ -36,6 +36,7 @@ My personal favorites in frontend development. Note that this content is frequen
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [TheNewBoston](https://www.youtube.com/user/thenewboston)
+* [Jesse Showalter](https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ)
 * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 #### TR
