@@ -33,6 +33,7 @@ My personal favorites in frontend development. Note that this content is frequen
 #### EN
 * [Learn Code Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+* [I hate tomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [TheNewBoston](https://www.youtube.com/user/thenewboston)
