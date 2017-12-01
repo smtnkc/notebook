@@ -1,4 +1,4 @@
-## My Favorite VS Code Shortcuts & Extensions
+# My Favorite VS Code Shortcuts & Extensions
 
 > **Note:** In addition to VS Code specific shortcuts, I am using the scroll keys
 **`Home`**, **`End`**, **`Page Up`**, **`Page Down`** quite often. I combine them with additional
