@@ -46,15 +46,19 @@ Coming soon...
 ### settings.json
 ```json
 {
+  "terminal.integrated.fontFamily": "SF Mono",
+  "editor.tabSize": 2,
   "editor.fontSize": 16,
   "editor.fontWeight": "normal",
+  "editor.fontFamily": "SF Mono",
+  "editor.renderWhitespace": "boundary",
   "workbench.panel.location": "bottom",
   "workbench.colorTheme": "One Dark Pro",
-  "workbench.startupEditor": "newUntitledFile",
-  "editor.fontFamily": "SF Mono",
-  "terminal.integrated.fontFamily": "SF Mono",
   "workbench.iconTheme": "material-icon-theme",
-  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorCustomizations": {
+    "editorWhitespace.foreground": "#666666"
+  },
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -64,11 +68,6 @@ Coming soon...
     "node_modules": true,
     ".vscode": true,
     "package-lock.json": true
-  },
-  "editor.renderWhitespace": "boundary",
-  "workbench.colorCustomizations": {
-    "editorWhitespace.foreground": "#626462"
-  },
-  "editor.tabSize": 2
+  }
 }
 ```
