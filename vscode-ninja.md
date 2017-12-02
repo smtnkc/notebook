@@ -42,3 +42,32 @@
   * **`Shift + I`** auto format code
 ### Extensions
 Coming soon...
+
+### settings.json
+```json
+{
+    "editor.fontSize": 16,
+    "editor.fontWeight": "normal",
+    "workbench.panel.location": "bottom",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "SF Mono",
+    "terminal.integrated.fontFamily": "SF Mono",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules": true,
+        ".vscode": true,
+        "package-lock.json": true
+    },
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#626462"
+    }
+}
+```
