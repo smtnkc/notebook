@@ -1,5 +1,5 @@
 # Personal Projects
-- [x] vSend :ear:
+- [x] vSend :lips:
 - [x] Univepart :school:
 - [x] FeedTummy :apple:
 - [x] Bittry :moneybag:
