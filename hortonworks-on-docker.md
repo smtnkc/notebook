@@ -38,9 +38,9 @@ Get HDP Sandbox for Docker from https://hortonworks.com/downloads/#sandbox
 * Delete docker image by `docker rmi <docker_image>`
 
 ### Resources
-Install docker-ce on Ubuntu: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker-ce
+* Install docker-ce on Ubuntu: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker-ce
 
-Docker CLI commands: https://docs.docker.com/engine/reference/commandline/docker/
+* Docker CLI commands: https://docs.docker.com/engine/reference/commandline/docker/
 
-Hortonworks sandbox deployment and install guide: https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
+* Hortonworks sandbox deployment and install guide: https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
 
