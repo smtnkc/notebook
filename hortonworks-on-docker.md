@@ -37,8 +37,12 @@ Get HDP Sandbox for Docker from https://hortonworks.com/downloads/#sandbox
 * Remove container from `ps` by `docker rm <docker_image>`
 * Delete docker image by `docker rmi <docker_image>`
 
+**For ssh connection to server:**
+
+`ssh root@127.0.0.1 -p 2222` with password `hadoop`
+
 ### Resources
 * Install docker-ce on Ubuntu: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker-ce
 * Docker CLI commands: https://docs.docker.com/engine/reference/commandline/docker/
 * Hortonworks sandbox deployment and install guide: https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
-
+* Learning the ropes of Hortonworks sandbox: https://hortonworks.com/tutorial/learning-the-ropes-of-the-hortonworks-sandbox/
